@@ -22,7 +22,7 @@ public class userService {
         password = passwords;
         String[][] data = 
         { 
-            {"Farizan5@gmail.com", "12345", "superAdmin"},
+            {"Farizan52@gmail.com", "12345", "superAdmin"},
             {"David52@gmail.com", "12345", "user"} 
         };
         String[][] histories = 
